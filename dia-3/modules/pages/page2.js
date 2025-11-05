@@ -1,3 +1,3 @@
 export default function(){
-    console.log('page2')
+    return '<div>Página2</div>'
 }

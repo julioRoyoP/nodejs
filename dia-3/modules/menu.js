@@ -1,3 +1,5 @@
+import { addContent } from './util.js'
+
 !function menu(){
     document.addEventListener('click',async (ev)=>{
 
@@ -19,7 +21,7 @@
                 solo puede haber un export default en un modulo
                 import name, {} from './module.js'
             */
-            module.default()
+            addContent(module.default())
         }
     })
 }()

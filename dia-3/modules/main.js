@@ -8,3 +8,6 @@ console.log(mult(5,3)) //15
 console.log(division(6,3)) //2
 
 console.log(op.suma(4,4)) //8
+
+//https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
